@@ -2,7 +2,6 @@
 By Will A. Soto - Cloud DevOps Engineer ☁️
 
 ## 🧭 Architecture
-![Two-Tier AWS Architecture](architecture/adventure-works-architecture.png)
 
 A secure, scalable two-tier web application deployed on AWS — featuring an Application Load Balancer (ALB) distributing traffic across EC2 instances in an Auto Scaling Group, with a MySQL RDS backend hosted in private subnets. Joomla CMS is automatically deployed via a user-data script to enable dynamic, content-driven web services for Adventure Works, a global travel agency.
 
